@@ -1,0 +1,8 @@
+site_name: MkLorum
+nav:
+    - Home: index.md
+    - About: about.md
+    - Notebook: notebook.ipynb
+theme: readthedocs
+plugins: 
+    - mkdocs-jupyter
