@@ -1,2 +1,2 @@
 # testrepo
-For interactivity on readthedocs POC using mkdocs
+For interactivity on readthedocs POC using mkdocs.
